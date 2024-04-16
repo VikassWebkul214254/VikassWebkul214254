@@ -1,4 +1,4 @@
-`
+```js
 import { Person } from 'India';
 
 new Person({
@@ -8,4 +8,4 @@ new Person({
   website: null,
   married: !!!true,
 }).introduce();
-`
+```
