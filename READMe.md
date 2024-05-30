@@ -6,6 +6,7 @@ new Person({
   title : 'Software Engineer',
   email : 'vikas.vishwakarma749@webkul.in | vishwakarmavikas750@gmail.com',
   website: null,
+  company:'webkul software pvt. Ltd',
   married: !!!true,
 }).introduce();
 ```
