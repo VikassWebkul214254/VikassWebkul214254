@@ -3,7 +3,7 @@ import { Person } from 'India';
 
 new Person({
   name : 'Vikas Vishwakarma',
-  title : 'Software Engineer',
+  title : 'Team Lead',
   email : 'vikas.vishwakarma749@webkul.in,
   website: null,
   company:'Webkul software pvt. Ltd',
