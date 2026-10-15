@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Vikas;Laravel+Developer+%40+Webkul;Managing+Krayin+CRM+%26+Bagisto+Plugins;Currently+learning+DevOps+%F0%9F%9A%80" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Vikas;Laravel+Developer+%40+Webkul;6%2B+Years+of+Experience;Managing+Krayin+CRM+%26+Bagisto+Plugins;Currently+learning+DevOps+%F0%9F%9A%80" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -10,11 +10,15 @@
 
 I'm **Vikas**, one of the team members of [Krayin CRM](https://github.com/krayin/laravel-crm) and [Bagisto](https://github.com/bagisto/bagisto) at **Webkul**.
 
+👉 **6+ years of experience** in software development, specializing in Laravel, PHP and open-source web applications.
+
 👉 Managing **Krayin CRM**, the open-source Laravel CRM, along with **Krayin plugins**.
 
 👉 Managed **Bagisto POS** and **Bagisto SaaS** plugins for Laravel e-commerce.
 
 👉 Working daily with Laravel, Vue.js, React.js, Node.js, MySQL, MariaDB and Docker.
+
+👉 Also experienced with **CodeIgniter** and **OpenCart** development.
 
 👉 Always open to collaborating on open-source Laravel projects.
 
@@ -61,6 +65,10 @@ I'm **Vikas**, one of the team members of [Krayin CRM](https://github.com/krayin
 ### ⚙️ Frameworks & Libraries
 <p align="left">
   <img src="https://skillicons.dev/icons?i=laravel,vue,react,tailwind,bootstrap,jquery,vite" alt="Frameworks and libraries" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+  <img src="https://img.shields.io/badge/OpenCart-23A1D1?style=for-the-badge&logo=opencart&logoColor=white" alt="OpenCart" />
 </p>
 
 ### 🛠️ Backend & Runtime
