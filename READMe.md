@@ -10,7 +10,7 @@
 
 I'm **Vikas**, one of the team members of [Krayin CRM](https://github.com/krayin/laravel-crm) and [Bagisto](https://github.com/bagisto/bagisto) at **Webkul**.
 
-👉 Managing **Krayin CRM**, the open-source Laravel CRM, along with **Krayin Cloud Hosting** and **Krayin plugins**.
+👉 Managing **Krayin CRM**, the open-source Laravel CRM, along with **Krayin plugins**.
 
 👉 Managed **Bagisto POS** and **Bagisto SaaS** plugins for Laravel e-commerce.
 
@@ -34,22 +34,15 @@ I'm **Vikas**, one of the team members of [Krayin CRM](https://github.com/krayin
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>☁️ Krayin Cloud Hosting</h3>
-      <p>Fully managed hosting where Krayin CRM is set up, secured and configured on reliable infrastructure.</p>
-      <a href="https://krayincrm.com/crm-cloud-hosting">
-        <img src="https://img.shields.io/badge/Krayin-Cloud%20Hosting-0E75B6?style=for-the-badge&logo=icloud&logoColor=white" alt="Krayin Cloud Hosting" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>🔌 Krayin Plugins</h3>
       <p>Extensions that add power to Krayin CRM:</p>
       <a href="https://krayincrm.com/extensions/krayin-crm-multi-tenant-saas-extension/"><img src="https://img.shields.io/badge/Multi--Tenant-SaaS-6f42c1?style=flat-square" alt="Multi-Tenant SaaS" /></a>
       <a href="https://krayincrm.com/extensions/krayin-crm-whatsapp-extension/"><img src="https://img.shields.io/badge/WhatsApp-Integration-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
       <a href="https://krayincrm.com/extensions/krayin-crm-voip/"><img src="https://img.shields.io/badge/VoIP-Integration-F7931E?style=flat-square" alt="VoIP" /></a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>🛒 Bagisto Plugins</h3>
       <p>Laravel e-commerce extensions for the Bagisto platform:</p>
       <a href="https://bagisto.com/en/extensions/"><img src="https://img.shields.io/badge/Bagisto-POS-E11D48?style=flat-square" alt="Bagisto POS" /></a>
