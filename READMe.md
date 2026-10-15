@@ -16,8 +16,6 @@ I'm **Vikas**, one of the team members of [Krayin CRM](https://github.com/krayin
 
 👉 Working daily with Laravel, Vue.js, React.js, Node.js, MySQL, MariaDB and Docker.
 
-👉 Currently learning **DevOps** 🚀 (CI/CD, containers, cloud and automation).
-
 👉 Always open to collaborating on open-source Laravel projects.
 
 ---
